@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID='e3d0b50f-3969-4554-83ca-161c0188bfe6'
+UUID='b9bbefe6-f4d6-4589-9fa1-3f05e937dfb9'
 VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
